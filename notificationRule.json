@@ -1,0 +1,26 @@
+{
+    "id": 666,
+    "name": "Priority Alarm",
+    "priority": 5,
+    "recipients":
+    [
+        {
+            "id": 999,
+            "name": "Kevin Garnet",
+            "email": "kevin@email.com",
+            "phone": "300123456789"
+        },
+        {
+            "id": 123,
+            "name": "Policy",
+            "email": "policy@email.com",
+            "phone": "300123123123"
+        },
+        {
+            "id": 456,
+            "name": "Hospital",
+            "email": "hospital@email.com",
+            "phone": "300123123123"
+        }
+    ]
+}
